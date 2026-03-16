@@ -1,17 +1,15 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FF8E53,50:FFC107,75:4ECDC4,100:45B7D1&height=200&section=header&text=Abderrahmane%20Loukrati&fontSize=45&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&desc=Web%20Developer%20%7C%20AI%20Enthusiast&descSize=20&descAlign=50&descAlignY=62&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:06B6D4,100:0284C7&height=200&section=header&text=Abderrahmane%20Loukrati&fontSize=45&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&desc=Web%20Developer%20%7C%20AI%20Enthusiast&descSize=20&descAlign=50&descAlignY=62&animation=twinkling" />
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=🚀+Building+the+future,+one+line+at+a+time;🤖+AI+Enthusiast+%7C+Web+Developer;💡+Turning+Ideas+into+Reality;🌍+Based+in+Morocco+%7C+Open+to+Collaborate" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=🚀+Building+the+future,+one+line+at+a+time;🤖+AI+Enthusiast+%7C+Web+Developer;💡+Turning+Ideas+into+Reality;🌍+Based+in+Morocco+%7C+Open+to+Collaborate" alt="Typing SVG" />
 
 <!-- Visitor Badge & Profile Views -->
 <p>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=loukratiabderrahmane&left_color=FF6B6B&right_color=4ECDC4&left_text=Visitors" />
-  <img src="https://img.shields.io/github/followers/loukratiabderrahmane?label=Followers&style=social&color=FF6B6B" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=loukratiabderrahmane&left_color=0EA5E9&right_color=06B6D4&left_text=Visitors" />
+  <img src="https://img.shields.io/github/followers/loukratiabderrahmane?label=Followers&style=social&color=0EA5E9" />
 </p>
 
 </div>
@@ -101,10 +99,10 @@ Passion  : Turning ideas into impact 🚀
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=loukratiabderrahmane&show_icons=true&theme=radical&border_radius=15&border_color=FF6B6B&title_color=FF6B6B&icon_color=FFC107&text_color=FFFFFF&bg_color=0D1117" height="180"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=loukratiabderrahmane&layout=compact&theme=radical&border_radius=15&border_color=FF6B6B&title_color=FF6B6B&text_color=FFFFFF&bg_color=0D1117" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=loukratiabderrahmane&show_icons=true&theme=tokyonight&border_radius=15&border_color=0EA5E9&title_color=0EA5E9&icon_color=06B6D4&text_color=FFFFFF&bg_color=0D1117" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=loukratiabderrahmane&layout=compact&theme=tokyonight&border_radius=15&border_color=0EA5E9&title_color=0EA5E9&text_color=FFFFFF&bg_color=0D1117" height="180"/>
 
-<img src="https://streak-stats.demolab.com?user=loukratiabderrahmane&theme=radical&hide_border=false&border=FF6B6B&background=0D1117&stroke=FF6B6B&ring=FFC107&fire=FF6B6B&currStreakLabel=4ECDC4" />
+<img src="https://streak-stats.demolab.com?user=loukratiabderrahmane&theme=tokyonight&hide_border=false&border=0EA5E9&background=0D1117&stroke=0EA5E9&ring=06B6D4&fire=0EA5E9&currStreakLabel=06B6D4" />
 
 </div>
 
@@ -114,7 +112,7 @@ Passion  : Turning ideas into impact 🚀
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=loukratiabderrahmane&theme=radical&no-frame=false&no-bg=false&margin-w=6&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=loukratiabderrahmane&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1" />
 
 </div>
 
@@ -124,7 +122,7 @@ Passion  : Turning ideas into impact 🚀
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=loukratiabderrahmane&bg_color=0D1117&color=FF6B6B&line=FFC107&point=4ECDC4&area=true&hide_border=false&border_color=FF6B6B" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=loukratiabderrahmane&bg_color=0D1117&color=0EA5E9&line=06B6D4&point=0284C7&area=true&hide_border=false&border_color=0EA5E9" />
 
 </div>
 
@@ -134,7 +132,7 @@ Passion  : Turning ideas into impact 🚀
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/loukratiabderrahmane/loukratiabderrahmane/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/loukratiabderrahmane /loukratiabderrahmane /output/snake.svg" alt="Snake animation" />
 
 </div>
 
@@ -142,12 +140,22 @@ Passion  : Turning ideas into impact 🚀
 
 <div align="center">
 
-### 💬 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 💬 Words to Code By
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0284C7,100:06B6D4&height=3&section=header&reversal=false" />
+
+<br/>
+
+```
+❝  First, solve the problem. Then, write the code.  ❞
+                                        — John Johnson
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:0284C7&height=3&section=header&reversal=false" />
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:45B7D1,25:4ECDC4,50:FFC107,75:FF8E53,100:FF6B6B&height=120&section=footer&reversal=true" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,50:0EA5E9,100:06B6D4&height=120&section=footer&reversal=true" />
 
 **"Code. Learn. Build. Improve. Repeat."** 🚀
 
