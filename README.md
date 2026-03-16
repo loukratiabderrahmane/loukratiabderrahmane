@@ -132,7 +132,9 @@ Passion  : Turning ideas into impact 🚀
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/loukratiabderrahmane/loukratiabderrahmane/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+
+<img src="https://raw.githubusercontent.com/loukratiabderrahmane /loukratiabderrahmane /output/snake.svg" alt="Snake animation" />
+
 
 </div>
 
