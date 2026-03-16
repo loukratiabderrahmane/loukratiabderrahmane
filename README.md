@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:06B6D4,100:0284C7&height=200&section=header&text=Abderrahmane%20Loukrati&fontSize=45&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&desc=Web%20Developer%20%7C%20AI%20Enthusiast&descSize=20&descAlign=50&descAlignY=62&animation=twinkling" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=🚀+Building+the+future,+one+line+at+a+time;🤖+AI+Enthusiast+%7C+Web+Developer;💡+Turning+Ideas+into+Reality;🌍+Based+in+Morocco+%7C+Open+to+Collaborate" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&height=80&lines=🚀+Building+the+future%2C+one+line+at+a+time;🤖+AI+Enthusiast+%7C+Web+Developer;💡+Turning+Ideas+into+Reality;🌍+Based+in+Morocco+%7C+Open+to+Collaborate)](https://git.io/typing-svg)
 
 <!-- Visitor Badge & Profile Views -->
 <p>
@@ -132,7 +132,7 @@ Passion  : Turning ideas into impact 🚀
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/loukratiabderrahmane /loukratiabderrahmane /output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/loukratiabderrahmane/loukratiabderrahmane/output/pacman-contribution-graph.svg" alt="Pacman animation" />
 
 </div>
 
@@ -142,22 +142,17 @@ Passion  : Turning ideas into impact 🚀
 
 ### 💬 Words to Code By
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0284C7,100:06B6D4&height=3&section=header&reversal=false" />
+---
 
-<br/>
+> ### ❝ First, solve the problem. Then, write the code. ❞
+> — **John Johnson**
 
-```
-❝  First, solve the problem. Then, write the code.  ❞
-                                        — John Johnson
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:0284C7&height=3&section=header&reversal=false" />
+---
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,50:0EA5E9,100:06B6D4&height=120&section=footer&reversal=true" />
 
-**"Code. Learn. Build. Improve. Repeat."** 🚀
 
 *Made with ❤️ by Abderrahmane Loukrati*
 
