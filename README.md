@@ -108,16 +108,6 @@ Passion  : Turning ideas into impact 🚀
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=loukratiabderrahmane&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1" />
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
