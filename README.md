@@ -132,14 +132,13 @@ Passion  : Turning ideas into impact 🚀
 
 <div align="center">
 
-### 💬 Words to Code By
+## 💬 Words to Code By
 
----
+<div align="center">
 
-> ### ❝ First, solve the problem. Then, write the code. ❞
-> — **John Johnson**
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
----
+</div>
 
 ---
 
