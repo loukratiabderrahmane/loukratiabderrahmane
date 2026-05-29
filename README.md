@@ -1,15 +1,16 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:06B6D4,100:0284C7&height=200&section=header&text=Abderrahmane%20Loukrati&fontSize=45&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&desc=Web%20Developer%20%7C%20AI%20Enthusiast&descSize=20&descAlign=50&descAlignY=62&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1616,25:2B2523,50:5C4033,75:B07D62,100:E7D7C9&height=240&section=header&text=Abderrahmane%20Loukrati&fontSize=48&fontColor=F8F5F2&fontAlignY=38&desc=Software%20Engineering%20Student%20•%20AI%20Engineer%20•%20Web%20Developer&descAlignY=58&descSize=18&animation=fadeIn" />
+
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&height=80&lines=🚀+Building+the+future%2C+one+line+at+a+time;🤖+AI+Enthusiast+%7C+Web+Developer;💡+Turning+Ideas+into+Reality;🌍+Based+in+Morocco+%7C+Open+to+Collaborate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=B88768&center=true&vCenter=true&width=700&height=80&lines=🚀+Building+the+future%2C+one+line+at+a+time;🤖+AI+Engineer+%7C+Full+Stack+Developer;💡+Turning+Ideas+into+Reality;🌍+Based+in+Morocco+%7C+Open+to+Collaborate)](https://git.io/typing-svg)
 
 <!-- Visitor Badge & Profile Views -->
 <p>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=loukratiabderrahmane&left_color=0EA5E9&right_color=06B6D4&left_text=Visitors" />
-  <img src="https://img.shields.io/github/followers/loukratiabderrahmane?label=Followers&style=social&color=0EA5E9" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=loukratiabderrahmane&left_color=171414&right_color=B88768&left_text=Visitors" />
+  <img src="https://img.shields.io/github/followers/loukratiabderrahmane?label=Followers&style=social&color=B88768" />
 </p>
 
 </div>
@@ -23,15 +24,15 @@
 ```yaml
 Name     : Abderrahmane Loukrati
 From     : Morocco 🇲🇦
-Role     : Software Engineering Student
-Focus    : AI + Web Development
+Role     : Computer Science & AI Engineering Student
+Focus    : AI + Full Stack Web Development
 Status   : Always Learning 📚
 Passion  : Turning ideas into impact 🚀
-```
+````
 
-🔭 Currently working on **AI-powered web apps**  
-🌱 Learning **Machine Learning & Deep Learning**  
-💬 Ask me about **JavaScript, Python, Node.js**  
+🔭 Currently working on **AI-powered web apps**
+🌱 Learning **Machine Learning & Deep Learning**
+💬 Ask me about **JavaScript, Python, Node.js**
 ⚡ Fun fact: **I debug in my dreams 😄**
 
 <br clear="both"/>
@@ -42,11 +43,11 @@ Passion  : Turning ideas into impact 🚀
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loukratiabdo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahmane-loukrati-2a14a839b/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/590640664107024414)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/LoukratiAbde)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/loukratiabde)
+[![Gmail](https://img.shields.io/badge/Gmail-171414?style=for-the-badge\&logo=gmail\&logoColor=F8F5F2)](mailto:loukratiabdo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-171414?style=for-the-badge\&logo=linkedin\&logoColor=F8F5F2)](https://www.linkedin.com/in/abderrahmane-loukrati-2a14a839b/)
+[![Discord](https://img.shields.io/badge/Discord-171414?style=for-the-badge\&logo=discord\&logoColor=F8F5F2)](https://discordapp.com/users/590640664107024414)
+[![Twitter](https://img.shields.io/badge/Twitter-171414?style=for-the-badge\&logo=twitter\&logoColor=F8F5F2)](https://x.com/LoukratiAbde)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-171414?style=for-the-badge\&logo=tryhackme\&logoColor=F8F5F2)](https://tryhackme.com/p/loukratiabde)
 
 </div>
 
@@ -57,39 +58,45 @@ Passion  : Turning ideas into impact 🚀
 <div align="center">
 
 ### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-B88768?style=for-the-badge\&logo=javascript\&logoColor=171414)
+![Python](https://img.shields.io/badge/Python-6E4B3A?style=for-the-badge\&logo=python\&logoColor=F8F5F2)
+![Java](https://img.shields.io/badge/Java-B88768?style=for-the-badge\&logo=openjdk\&logoColor=171414)
+![Bash](https://img.shields.io/badge/Bash-171414?style=for-the-badge\&logo=gnu-bash\&logoColor=F8F5F2)
 
 ### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+![HTML5](https://img.shields.io/badge/HTML5-B88768?style=for-the-badge\&logo=html5\&logoColor=171414)
+![CSS3](https://img.shields.io/badge/CSS3-6E4B3A?style=for-the-badge\&logo=css3\&logoColor=F8F5F2)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-B88768?style=for-the-badge\&logo=tailwind-css\&logoColor=171414)
+![React](https://img.shields.io/badge/React-6E4B3A?style=for-the-badge\&logo=react\&logoColor=F8F5F2)
 
 ### ⚙️ Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-B88768?style=for-the-badge\&logo=node.js\&logoColor=171414)
+![Express](https://img.shields.io/badge/Express-171414?style=for-the-badge\&logo=express\&logoColor=F8F5F2)
+![Docker](https://img.shields.io/badge/Docker-6E4B3A?style=for-the-badge\&logo=docker\&logoColor=F8F5F2)
+![Git](https://img.shields.io/badge/Git-B88768?style=for-the-badge\&logo=git\&logoColor=171414)
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-6E4B3A?style=for-the-badge\&logo=mysql\&logoColor=F8F5F2)
+![SQLite](https://img.shields.io/badge/SQLite-171414?style=for-the-badge\&logo=sqlite\&logoColor=F8F5F2)
+![MongoDB](https://img.shields.io/badge/MongoDB-B88768?style=for-the-badge\&logo=mongodb\&logoColor=171414)
 
 ### 🧠 AI & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-B88768?style=for-the-badge\&logo=tensorflow\&logoColor=171414)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-6E4B3A?style=for-the-badge\&logo=scikit-learn\&logoColor=F8F5F2)
+![NumPy](https://img.shields.io/badge/NumPy-171414?style=for-the-badge\&logo=numpy\&logoColor=F8F5F2)
 
 ### 🖥️ Tools & IDEs
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS%20Code-B88768?style=for-the-badge\&logo=visual-studio-code\&logoColor=171414)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-171414?style=for-the-badge\&logo=intellij-idea\&logoColor=F8F5F2)
+![Linux](https://img.shields.io/badge/Linux-B88768?style=for-the-badge\&logo=linux\&logoColor=171414)
+![Figma](https://img.shields.io/badge/Figma-6E4B3A?style=for-the-badge\&logo=figma\&logoColor=F8F5F2)
+![Trello](https://img.shields.io/badge/Trello-171414?style=for-the-badge\&logo=trello\&logoColor=F8F5F2)
 
 </div>
 
@@ -99,10 +106,11 @@ Passion  : Turning ideas into impact 🚀
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=loukratiabderrahmane&show_icons=true&theme=tokyonight&border_radius=15&border_color=0EA5E9&title_color=0EA5E9&icon_color=06B6D4&text_color=FFFFFF&bg_color=0D1117" height="180"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=loukratiabderrahmane&layout=compact&theme=tokyonight&border_radius=15&border_color=0EA5E9&title_color=0EA5E9&text_color=FFFFFF&bg_color=0D1117" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=loukratiabderrahmane&show_icons=true&theme=tokyonight&border_radius=15&border_color=B88768&title_color=B88768&icon_color=D6A98B&text_color=F8F5F2&bg_color=171414" height="180"/>
 
-<img src="https://streak-stats.demolab.com?user=loukratiabderrahmane&theme=tokyonight&hide_border=false&border=0EA5E9&background=0D1117&stroke=0EA5E9&ring=06B6D4&fire=0EA5E9&currStreakLabel=06B6D4" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=loukratiabderrahmane&layout=compact&theme=tokyonight&border_radius=15&border_color=B88768&title_color=B88768&text_color=F8F5F2&bg_color=171414" height="180"/>
+
+<img src="https://streak-stats.demolab.com?user=loukratiabderrahmane&theme=tokyonight&hide_border=false&border=B88768&background=171414&stroke=B88768&ring=D6A98B&fire=B88768&currStreakLabel=D6A98B" />
 
 </div>
 
@@ -112,7 +120,7 @@ Passion  : Turning ideas into impact 🚀
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=loukratiabderrahmane&bg_color=0D1117&color=0EA5E9&line=06B6D4&point=0284C7&area=true&hide_border=false&border_color=0EA5E9" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=loukratiabderrahmane&bg_color=171414&color=F8F5F2&line=B88768&point=D6A98B&area=true&hide_border=false&border_color=B88768" />
 
 </div>
 
@@ -122,9 +130,7 @@ Passion  : Turning ideas into impact 🚀
 
 <div align="center">
 
-
-<img src="https://raw.githubusercontent.com/loukratiabderrahmane /loukratiabderrahmane /output/snake.svg" alt="Snake animation" />
-
+<img src="https://raw.githubusercontent.com/loukratiabderrahmane/loukratiabderrahmane/output/snake.svg" alt="Snake animation" />
 
 </div>
 
@@ -136,15 +142,15 @@ Passion  : Turning ideas into impact 🚀
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,50:0EA5E9,100:06B6D4&height=120&section=footer&reversal=true" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B88768,50:6E4B3A,100:171414&height=120&section=footer&reversal=true" />
 
 *Made with ❤️ by Abderrahmane Loukrati*
 
 </div>
+```
